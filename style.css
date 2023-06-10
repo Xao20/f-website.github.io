@@ -299,7 +299,7 @@ img {
     line-height: 2.5rem;
     font-weight: 300;
     letter-spacing: 0.05rem;
-    width: 400px;
+    width: 300px;
 }
 
 #services .s-bottom {
@@ -597,7 +597,7 @@ color : white ;
     width: 90%;
 }
 #contact .c-items{
-    width: 400px;
+    width: 300px;
 }
 #contact .c-item{
     width: 80%;
